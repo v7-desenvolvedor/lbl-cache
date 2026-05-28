@@ -1,11 +1,7 @@
 {
-    "client_config": {
-        "app_server_status" : true,
-        "app_beta_status" : false,
-        "game_version" : "1.0.0",
-        "game_url" : "https://samp-mobile.shop/launcherarizona.apk",
-        "version_code": 130,
-        "url_launcher": "https://samp-mobile.shop/launcher.apk",
-        "url_cache_files": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/files.json"
-    }
+  "client_config": {
+    "version_code": 1,
+    "url_launcher": "http://45.157.16.75/apigua/data/laucher.apk",
+    "url_cache_files": "http://45.157.16.75/api/generate_files.php"
+  }
 }
