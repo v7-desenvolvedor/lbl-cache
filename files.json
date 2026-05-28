@@ -1,0 +1,2212 @@
+{
+    "files": [
+        {
+            "name": "SAMP.ide",
+            "path": "SAMP/SAMP.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/SAMP.ide",
+            "size": 89349
+        },
+        {
+            "name": "TIMECYC.DAT",
+            "path": "SAMP/TIMECYC.DAT",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/SAMP/TIMECYC.DAT",
+            "size": 40037
+        },
+        {
+            "name": "WEAPON.dat",
+            "path": "SAMP/WEAPON.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/SAMP/WEAPON.dat",
+            "size": 11585
+        },
+        {
+            "name": "cef.log",
+            "path": "SAMP/cef.log",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/cef.log",
+            "size": 2863441
+        },
+        {
+            "name": "favorites.json",
+            "path": "SAMP/favorites.json",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/favorites.json",
+            "size": 50
+        },
+        {
+            "name": "gta.dat",
+            "path": "SAMP/gta.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/SAMP/gta.dat",
+            "size": 3789
+        },
+        {
+            "name": "handling.cfg",
+            "path": "SAMP/handling.cfg",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/handling.cfg",
+            "size": 64532
+        },
+        {
+            "name": "main.scm",
+            "path": "SAMP/main.scm",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/main.scm",
+            "size": 96997
+        },
+        {
+            "name": "ped.ifp",
+            "path": "SAMP/ped.ifp",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/ped.ifp",
+            "size": 1433248
+        },
+        {
+            "name": "peds.ide",
+            "path": "SAMP/peds.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/peds.ide",
+            "size": 36369
+        },
+        {
+            "name": "samplog.txt",
+            "path": "SAMP/samplog.txt",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/samplog.txt",
+            "size": 1438
+        },
+        {
+            "name": "sampvoice.txt",
+            "path": "SAMP/sampvoice.txt",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/sampvoice.txt",
+            "size": 899
+        },
+        {
+            "name": "script.img",
+            "path": "SAMP/script.img",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/SAMP/script.img",
+            "size": 184320
+        },
+        {
+            "name": "server.ini",
+            "path": "SAMP/server.ini",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/server.ini",
+            "size": 157
+        },
+        {
+            "name": "settings.ini",
+            "path": "SAMP/settings.ini",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/settings.ini",
+            "size": 459
+        },
+        {
+            "name": "settings.json",
+            "path": "SAMP/settings.json",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/settings.json",
+            "size": 242
+        },
+        {
+            "name": "svlog.txt",
+            "path": "SAMP/svlog.txt",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/svlog.txt",
+            "size": 479
+        },
+        {
+            "name": "tracks2.dat",
+            "path": "SAMP/tracks2.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/SAMP/tracks2.dat",
+            "size": 1
+        },
+        {
+            "name": "tracks4.dat",
+            "path": "SAMP/tracks4.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/SAMP/tracks4.dat",
+            "size": 1
+        },
+        {
+            "name": "vehicleAudioSettings.cfg",
+            "path": "SAMP/vehicleAudioSettings.cfg",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/vehicleAudioSettings.cfg",
+            "size": 22642
+        },
+        {
+            "name": "vehicles.ide",
+            "path": "SAMP/vehicles.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/SAMP/vehicles.ide",
+            "size": 21093
+        },
+        {
+            "name": "AMERICAN.GXT",
+            "path": "TEXT/AMERICAN.GXT",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/TEXT/AMERICAN.GXT",
+            "size": 1339196
+        },
+        {
+            "name": "anim.img",
+            "path": "anim/anim.img",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/anim/anim.img",
+            "size": 10942464
+        },
+        {
+            "name": "cuts.img",
+            "path": "anim/cuts.img",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/anim/cuts.img",
+            "size": 16029696
+        },
+        {
+            "name": "ped.ifp",
+            "path": "anim/ped.ifp",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/anim/ped.ifp",
+            "size": 1433248
+        },
+        {
+            "name": "AudioEventHistory.txt",
+            "path": "audio/CONFIG/AudioEventHistory.txt",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/CONFIG/AudioEventHistory.txt",
+            "size": 114056
+        },
+        {
+            "name": "BankLkup.dat",
+            "path": "audio/CONFIG/BankLkup.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/CONFIG/BankLkup.dat",
+            "size": 8520
+        },
+        {
+            "name": "BankSlot.dat",
+            "path": "audio/CONFIG/BankSlot.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/CONFIG/BankSlot.dat",
+            "size": 216902
+        },
+        {
+            "name": "EventVol.dat",
+            "path": "audio/CONFIG/EventVol.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/CONFIG/EventVol.dat",
+            "size": 45402
+        },
+        {
+            "name": "PakFiles.dat",
+            "path": "audio/CONFIG/PakFiles.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/CONFIG/PakFiles.dat",
+            "size": 468
+        },
+        {
+            "name": "SOUNDINF.DAT",
+            "path": "audio/CONFIG/SOUNDINF.DAT",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/CONFIG/SOUNDINF.DAT",
+            "size": 746760
+        },
+        {
+            "name": "StrmPaks.dat",
+            "path": "audio/CONFIG/StrmPaks.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/CONFIG/StrmPaks.dat",
+            "size": 272
+        },
+        {
+            "name": "TRKHEAD.DAT",
+            "path": "audio/CONFIG/TRKHEAD.DAT",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/CONFIG/TRKHEAD.DAT",
+            "size": 15506696
+        },
+        {
+            "name": "TrakLkup.dat",
+            "path": "audio/CONFIG/TrakLkup.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/CONFIG/TrakLkup.dat",
+            "size": 23064
+        },
+        {
+            "name": "FEET.osw",
+            "path": "audio/SFX/FEET.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/SFX/FEET.osw",
+            "size": 138118
+        },
+        {
+            "name": "FEET.osw.idx",
+            "path": "audio/SFX/FEET.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/SFX/FEET.osw.idx",
+            "size": 1220
+        },
+        {
+            "name": "GENRL.osw",
+            "path": "audio/SFX/GENRL.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/SFX/GENRL.osw",
+            "size": 9362373
+        },
+        {
+            "name": "GENRL.osw.idx",
+            "path": "audio/SFX/GENRL.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/SFX/GENRL.osw.idx",
+            "size": 20868
+        },
+        {
+            "name": "PAIN_A.osw",
+            "path": "audio/SFX/PAIN_A.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/SFX/PAIN_A.osw",
+            "size": 3247335
+        },
+        {
+            "name": "PAIN_A.osw.idx",
+            "path": "audio/SFX/PAIN_A.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/SFX/PAIN_A.osw.idx",
+            "size": 12836
+        },
+        {
+            "name": "AA.osw",
+            "path": "audio/STREAMS/AA.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/AA.osw",
+            "size": 15462
+        },
+        {
+            "name": "AA.osw.idx",
+            "path": "audio/STREAMS/AA.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/AA.osw.idx",
+            "size": 1522
+        },
+        {
+            "name": "ADVERTS.osw",
+            "path": "audio/STREAMS/ADVERTS.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/ADVERTS.osw",
+            "size": 3516982
+        },
+        {
+            "name": "ADVERTS.osw.idx",
+            "path": "audio/STREAMS/ADVERTS.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/ADVERTS.osw.idx",
+            "size": 1591
+        },
+        {
+            "name": "AMBIENCE.osw",
+            "path": "audio/STREAMS/AMBIENCE.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/AMBIENCE.osw",
+            "size": 22719112
+        },
+        {
+            "name": "AMBIENCE.osw.idx",
+            "path": "audio/STREAMS/AMBIENCE.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/AMBIENCE.osw.idx",
+            "size": 924
+        },
+        {
+            "name": "AMBIENCE.osw.temp",
+            "path": "audio/STREAMS/AMBIENCE.osw.temp",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/AMBIENCE.osw.temp",
+            "size": 10629733
+        },
+        {
+            "name": "BEATS.osw",
+            "path": "audio/STREAMS/BEATS.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/BEATS.osw",
+            "size": 9415375
+        },
+        {
+            "name": "BEATS.osw.idx",
+            "path": "audio/STREAMS/BEATS.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/BEATS.osw.idx",
+            "size": 234
+        },
+        {
+            "name": "CH.osw",
+            "path": "audio/STREAMS/CH.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/CH.osw",
+            "size": 15462
+        },
+        {
+            "name": "CH.osw.idx",
+            "path": "audio/STREAMS/CH.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/CH.osw.idx",
+            "size": 2994
+        },
+        {
+            "name": "CO.osw",
+            "path": "audio/STREAMS/CO.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/CO.osw",
+            "size": 15462
+        },
+        {
+            "name": "CO.osw.idx",
+            "path": "audio/STREAMS/CO.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/CO.osw.idx",
+            "size": 3569
+        },
+        {
+            "name": "CR.osw",
+            "path": "audio/STREAMS/CR.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/CR.osw",
+            "size": 15462
+        },
+        {
+            "name": "CR.osw.idx",
+            "path": "audio/STREAMS/CR.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/CR.osw.idx",
+            "size": 3592
+        },
+        {
+            "name": "CUTSCENE.osw",
+            "path": "audio/STREAMS/CUTSCENE.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/CUTSCENE.osw",
+            "size": 301175
+        },
+        {
+            "name": "CUTSCENE.osw.idx",
+            "path": "audio/STREAMS/CUTSCENE.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/CUTSCENE.osw.idx",
+            "size": 3247
+        },
+        {
+            "name": "DS.osw",
+            "path": "audio/STREAMS/DS.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/DS.osw",
+            "size": 15462
+        },
+        {
+            "name": "DS.osw.idx",
+            "path": "audio/STREAMS/DS.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/DS.osw.idx",
+            "size": 4121
+        },
+        {
+            "name": "HC.osw",
+            "path": "audio/STREAMS/HC.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/HC.osw",
+            "size": 15462
+        },
+        {
+            "name": "HC.osw.idx",
+            "path": "audio/STREAMS/HC.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/HC.osw.idx",
+            "size": 2649
+        },
+        {
+            "name": "MH.osw",
+            "path": "audio/STREAMS/MH.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/MH.osw",
+            "size": 15462
+        },
+        {
+            "name": "MH.osw.idx",
+            "path": "audio/STREAMS/MH.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/MH.osw.idx",
+            "size": 3500
+        },
+        {
+            "name": "MR.osw",
+            "path": "audio/STREAMS/MR.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/MR.osw",
+            "size": 15462
+        },
+        {
+            "name": "MR.osw.idx",
+            "path": "audio/STREAMS/MR.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/MR.osw.idx",
+            "size": 3385
+        },
+        {
+            "name": "NJ.osw",
+            "path": "audio/STREAMS/NJ.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/NJ.osw",
+            "size": 15462
+        },
+        {
+            "name": "NJ.osw.idx",
+            "path": "audio/STREAMS/NJ.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/NJ.osw.idx",
+            "size": 2994
+        },
+        {
+            "name": "RE.osw",
+            "path": "audio/STREAMS/RE.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/RE.osw",
+            "size": 15462
+        },
+        {
+            "name": "RE.osw.idx",
+            "path": "audio/STREAMS/RE.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/RE.osw.idx",
+            "size": 3707
+        },
+        {
+            "name": "RG.osw",
+            "path": "audio/STREAMS/RG.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/RG.osw",
+            "size": 15462
+        },
+        {
+            "name": "RG.osw.idx",
+            "path": "audio/STREAMS/RG.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/RG.osw.idx",
+            "size": 3914
+        },
+        {
+            "name": "TK.osw",
+            "path": "audio/STREAMS/TK.osw",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/TK.osw",
+            "size": 15462
+        },
+        {
+            "name": "TK.osw.idx",
+            "path": "audio/STREAMS/TK.osw.idx",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/audio/STREAMS/TK.osw.idx",
+            "size": 2327
+        },
+        {
+            "name": "Cop.ped",
+            "path": "data/Decision/Allowed/Cop.ped",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/Cop.ped",
+            "size": 4908
+        },
+        {
+            "name": "GangMbr.ped",
+            "path": "data/Decision/Allowed/GangMbr.ped",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/GangMbr.ped",
+            "size": 6194
+        },
+        {
+            "name": "Fireman.ped",
+            "path": "data/Decision/Allowed/Fireman.ped",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/Fireman.ped",
+            "size": 4435
+        },
+        {
+            "name": "Indoors.ped",
+            "path": "data/Decision/Allowed/Indoors.ped",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/Indoors.ped",
+            "size": 2809
+        },
+        {
+            "name": "MISSION.grp",
+            "path": "data/Decision/Allowed/MISSION.grp",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/MISSION.grp",
+            "size": 2758
+        },
+        {
+            "name": "RANDOM.grp",
+            "path": "data/Decision/Allowed/RANDOM.grp",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/RANDOM.grp",
+            "size": 4623
+        },
+        {
+            "name": "RANDOM.ped",
+            "path": "data/Decision/Allowed/RANDOM.ped",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/RANDOM.ped",
+            "size": 4142
+        },
+        {
+            "name": "RANDOM2.grp",
+            "path": "data/Decision/Allowed/RANDOM2.grp",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/RANDOM2.grp",
+            "size": 4623
+        },
+        {
+            "name": "R_Norm.ped",
+            "path": "data/Decision/Allowed/R_Norm.ped",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/R_Norm.ped",
+            "size": 6450
+        },
+        {
+            "name": "R_Tough.ped",
+            "path": "data/Decision/Allowed/R_Tough.ped",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/R_Tough.ped",
+            "size": 6378
+        },
+        {
+            "name": "R_Weak.ped",
+            "path": "data/Decision/Allowed/R_Weak.ped",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/R_Weak.ped",
+            "size": 6289
+        },
+        {
+            "name": "m_empty.ped",
+            "path": "data/Decision/Allowed/m_empty.ped",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/m_empty.ped",
+            "size": 982
+        },
+        {
+            "name": "m_norm.ped",
+            "path": "data/Decision/Allowed/m_norm.ped",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/m_norm.ped",
+            "size": 4142
+        },
+        {
+            "name": "m_plyr.ped",
+            "path": "data/Decision/Allowed/m_plyr.ped",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/m_plyr.ped",
+            "size": 2000
+        },
+        {
+            "name": "m_steal.ped",
+            "path": "data/Decision/Allowed/m_steal.ped",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/m_steal.ped",
+            "size": 3663
+        },
+        {
+            "name": "m_tough.ped",
+            "path": "data/Decision/Allowed/m_tough.ped",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/m_tough.ped",
+            "size": 3980
+        },
+        {
+            "name": "m_weak.ped",
+            "path": "data/Decision/Allowed/m_weak.ped",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/Allowed/m_weak.ped",
+            "size": 4062
+        },
+        {
+            "name": "PedEvent.txt",
+            "path": "data/Decision/PedEvent.txt",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/Decision/PedEvent.txt",
+            "size": 1298
+        },
+        {
+            "name": "LAe.ide",
+            "path": "data/maps/LA/LAe.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAe.ide",
+            "size": 12249
+        },
+        {
+            "name": "LAe.ipl",
+            "path": "data/maps/LA/LAe.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAe.ipl",
+            "size": 27328
+        },
+        {
+            "name": "LAe2.ide",
+            "path": "data/maps/LA/LAe2.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAe2.ide",
+            "size": 21907
+        },
+        {
+            "name": "LAe2.ipl",
+            "path": "data/maps/LA/LAe2.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAe2.ipl",
+            "size": 33651
+        },
+        {
+            "name": "LAhills.ide",
+            "path": "data/maps/LA/LAhills.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAhills.ide",
+            "size": 10601
+        },
+        {
+            "name": "LAhills.ipl",
+            "path": "data/maps/LA/LAhills.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAhills.ipl",
+            "size": 34506
+        },
+        {
+            "name": "LAn.ide",
+            "path": "data/maps/LA/LAn.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAn.ide",
+            "size": 11107
+        },
+        {
+            "name": "LAn.ipl",
+            "path": "data/maps/LA/LAn.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAn.ipl",
+            "size": 14264
+        },
+        {
+            "name": "LAn2.ide",
+            "path": "data/maps/LA/LAn2.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAn2.ide",
+            "size": 9565
+        },
+        {
+            "name": "LAn2.ipl",
+            "path": "data/maps/LA/LAn2.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAn2.ipl",
+            "size": 13185
+        },
+        {
+            "name": "LAs.ide",
+            "path": "data/maps/LA/LAs.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAs.ide",
+            "size": 12575
+        },
+        {
+            "name": "LAs.ipl",
+            "path": "data/maps/LA/LAs.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAs.ipl",
+            "size": 22414
+        },
+        {
+            "name": "LAs2.ide",
+            "path": "data/maps/LA/LAs2.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAs2.ide",
+            "size": 12364
+        },
+        {
+            "name": "LAs2.ipl",
+            "path": "data/maps/LA/LAs2.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAs2.ipl",
+            "size": 38441
+        },
+        {
+            "name": "LAw.ide",
+            "path": "data/maps/LA/LAw.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAw.ide",
+            "size": 9412
+        },
+        {
+            "name": "LAw.ipl",
+            "path": "data/maps/LA/LAw.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAw.ipl",
+            "size": 15105
+        },
+        {
+            "name": "LAw2.ide",
+            "path": "data/maps/LA/LAw2.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAw2.ide",
+            "size": 11060
+        },
+        {
+            "name": "LAw2.ipl",
+            "path": "data/maps/LA/LAw2.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAw2.ipl",
+            "size": 18232
+        },
+        {
+            "name": "LAxref.ide",
+            "path": "data/maps/LA/LAxref.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LAxref.ide",
+            "size": 10477
+        },
+        {
+            "name": "LaWn.ide",
+            "path": "data/maps/LA/LaWn.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LaWn.ide",
+            "size": 13092
+        },
+        {
+            "name": "LaWn.ipl",
+            "path": "data/maps/LA/LaWn.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/LA/LaWn.ipl",
+            "size": 24330
+        },
+        {
+            "name": "SFSe.ide",
+            "path": "data/maps/SF/SFSe.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/SF/SFSe.ide",
+            "size": 30227
+        },
+        {
+            "name": "SFSe.ipl",
+            "path": "data/maps/SF/SFSe.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/SF/SFSe.ipl",
+            "size": 53359
+        },
+        {
+            "name": "SFe.ide",
+            "path": "data/maps/SF/SFe.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/SF/SFe.ide",
+            "size": 16224
+        },
+        {
+            "name": "SFe.ipl",
+            "path": "data/maps/SF/SFe.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/SF/SFe.ipl",
+            "size": 26707
+        },
+        {
+            "name": "SFn.ide",
+            "path": "data/maps/SF/SFn.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/SF/SFn.ide",
+            "size": 11219
+        },
+        {
+            "name": "SFn.ipl",
+            "path": "data/maps/SF/SFn.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/SF/SFn.ipl",
+            "size": 26201
+        },
+        {
+            "name": "SFs.ide",
+            "path": "data/maps/SF/SFs.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/SF/SFs.ide",
+            "size": 18948
+        },
+        {
+            "name": "SFs.ipl",
+            "path": "data/maps/SF/SFs.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/SF/SFs.ipl",
+            "size": 37969
+        },
+        {
+            "name": "SFw.ide",
+            "path": "data/maps/SF/SFw.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/SF/SFw.ide",
+            "size": 16473
+        },
+        {
+            "name": "SFw.ipl",
+            "path": "data/maps/SF/SFw.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/SF/SFw.ipl",
+            "size": 29247
+        },
+        {
+            "name": "SFxref.ide",
+            "path": "data/maps/SF/SFxref.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/SF/SFxref.ide",
+            "size": 4631
+        },
+        {
+            "name": "countn2.ide",
+            "path": "data/maps/country/countn2.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/country/countn2.ide",
+            "size": 35439
+        },
+        {
+            "name": "countn2.ipl",
+            "path": "data/maps/country/countn2.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/country/countn2.ipl",
+            "size": 41665
+        },
+        {
+            "name": "countryN.ide",
+            "path": "data/maps/country/countryN.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/country/countryN.ide",
+            "size": 11308
+        },
+        {
+            "name": "countryN.ipl",
+            "path": "data/maps/country/countryN.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/country/countryN.ipl",
+            "size": 14407
+        },
+        {
+            "name": "countryS.ide",
+            "path": "data/maps/country/countryS.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/country/countryS.ide",
+            "size": 18450
+        },
+        {
+            "name": "countryS.ipl",
+            "path": "data/maps/country/countryS.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/country/countryS.ipl",
+            "size": 33835
+        },
+        {
+            "name": "countryW.ide",
+            "path": "data/maps/country/countryW.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/country/countryW.ide",
+            "size": 19704
+        },
+        {
+            "name": "countrye.ide",
+            "path": "data/maps/country/countrye.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/country/countrye.ide",
+            "size": 34529
+        },
+        {
+            "name": "countrye.ipl",
+            "path": "data/maps/country/countrye.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/country/countrye.ipl",
+            "size": 49301
+        },
+        {
+            "name": "countryw.ipl",
+            "path": "data/maps/country/countryw.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/country/countryw.ipl",
+            "size": 35057
+        },
+        {
+            "name": "counxref.ide",
+            "path": "data/maps/country/counxref.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/country/counxref.ide",
+            "size": 8494
+        },
+        {
+            "name": "barriers.ide",
+            "path": "data/maps/generic/barriers.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/generic/barriers.ide",
+            "size": 1437
+        },
+        {
+            "name": "dynamic.ide",
+            "path": "data/maps/generic/dynamic.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/generic/dynamic.ide",
+            "size": 4611
+        },
+        {
+            "name": "dynamic2.ide",
+            "path": "data/maps/generic/dynamic2.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/generic/dynamic2.ide",
+            "size": 10510
+        },
+        {
+            "name": "multiobj.ide",
+            "path": "data/maps/generic/multiobj.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/generic/multiobj.ide",
+            "size": 5020
+        },
+        {
+            "name": "procobj.ide",
+            "path": "data/maps/generic/procobj.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/generic/procobj.ide",
+            "size": 4755
+        },
+        {
+            "name": "vegepart.ide",
+            "path": "data/maps/generic/vegepart.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/generic/vegepart.ide",
+            "size": 8062
+        },
+        {
+            "name": "gen_int1.ide",
+            "path": "data/maps/interior/gen_int1.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/gen_int1.ide",
+            "size": 2747
+        },
+        {
+            "name": "gen_int1.ipl",
+            "path": "data/maps/interior/gen_int1.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/gen_int1.ipl",
+            "size": 21074
+        },
+        {
+            "name": "gen_int2.ide",
+            "path": "data/maps/interior/gen_int2.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/gen_int2.ide",
+            "size": 10941
+        },
+        {
+            "name": "gen_int2.ipl",
+            "path": "data/maps/interior/gen_int2.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/gen_int2.ipl",
+            "size": 1683
+        },
+        {
+            "name": "gen_int3.ide",
+            "path": "data/maps/interior/gen_int3.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/gen_int3.ide",
+            "size": 3252
+        },
+        {
+            "name": "gen_int3.ipl",
+            "path": "data/maps/interior/gen_int3.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/gen_int3.ipl",
+            "size": 2091
+        },
+        {
+            "name": "gen_int4.ide",
+            "path": "data/maps/interior/gen_int4.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/gen_int4.ide",
+            "size": 2323
+        },
+        {
+            "name": "gen_int4.ipl",
+            "path": "data/maps/interior/gen_int4.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/gen_int4.ipl",
+            "size": 1185
+        },
+        {
+            "name": "gen_int5.ide",
+            "path": "data/maps/interior/gen_int5.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/gen_int5.ide",
+            "size": 4682
+        },
+        {
+            "name": "gen_int5.ipl",
+            "path": "data/maps/interior/gen_int5.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/gen_int5.ipl",
+            "size": 2988
+        },
+        {
+            "name": "gen_intb.ide",
+            "path": "data/maps/interior/gen_intb.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/gen_intb.ide",
+            "size": 5459
+        },
+        {
+            "name": "gen_intb.ipl",
+            "path": "data/maps/interior/gen_intb.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/gen_intb.ipl",
+            "size": 1626
+        },
+        {
+            "name": "int_LA.ide",
+            "path": "data/maps/interior/int_LA.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/int_LA.ide",
+            "size": 6004
+        },
+        {
+            "name": "int_LA.ipl",
+            "path": "data/maps/interior/int_LA.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/int_LA.ipl",
+            "size": 1312
+        },
+        {
+            "name": "int_SF.ide",
+            "path": "data/maps/interior/int_SF.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/int_SF.ide",
+            "size": 1260
+        },
+        {
+            "name": "int_SF.ipl",
+            "path": "data/maps/interior/int_SF.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/int_SF.ipl",
+            "size": 1334
+        },
+        {
+            "name": "int_cont.ide",
+            "path": "data/maps/interior/int_cont.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/int_cont.ide",
+            "size": 385
+        },
+        {
+            "name": "int_cont.ipl",
+            "path": "data/maps/interior/int_cont.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/int_cont.ipl",
+            "size": 910
+        },
+        {
+            "name": "int_veg.ide",
+            "path": "data/maps/interior/int_veg.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/int_veg.ide",
+            "size": 4684
+        },
+        {
+            "name": "propext.ide",
+            "path": "data/maps/interior/propext.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/propext.ide",
+            "size": 2340
+        },
+        {
+            "name": "int_veg.ipl",
+            "path": "data/maps/interior/int_veg.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/int_veg.ipl",
+            "size": 5299
+        },
+        {
+            "name": "props.ide",
+            "path": "data/maps/interior/props.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/props.ide",
+            "size": 26326
+        },
+        {
+            "name": "props2.ide",
+            "path": "data/maps/interior/props2.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/props2.ide",
+            "size": 21174
+        },
+        {
+            "name": "savehous.ide",
+            "path": "data/maps/interior/savehous.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/savehous.ide",
+            "size": 1724
+        },
+        {
+            "name": "savehous.ipl",
+            "path": "data/maps/interior/savehous.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/savehous.ipl",
+            "size": 2959
+        },
+        {
+            "name": "stadint.ide",
+            "path": "data/maps/interior/stadint.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/stadint.ide",
+            "size": 2851
+        },
+        {
+            "name": "stadint.ipl",
+            "path": "data/maps/interior/stadint.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/interior/stadint.ipl",
+            "size": 6299
+        },
+        {
+            "name": "leveldes.ide",
+            "path": "data/maps/leveldes/leveldes.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/leveldes/leveldes.ide",
+            "size": 360
+        },
+        {
+            "name": "leveldes.ipl",
+            "path": "data/maps/leveldes/leveldes.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/leveldes/leveldes.ipl",
+            "size": 165
+        },
+        {
+            "name": "levelmap.ide",
+            "path": "data/maps/leveldes/levelmap.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/leveldes/levelmap.ide",
+            "size": 3194
+        },
+        {
+            "name": "levelmap.ipl",
+            "path": "data/maps/leveldes/levelmap.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/leveldes/levelmap.ipl",
+            "size": 4675
+        },
+        {
+            "name": "levelxre.ide",
+            "path": "data/maps/leveldes/levelxre.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/leveldes/levelxre.ide",
+            "size": 9897
+        },
+        {
+            "name": "seabed.ide",
+            "path": "data/maps/leveldes/seabed.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/leveldes/seabed.ide",
+            "size": 12039
+        },
+        {
+            "name": "seabed.ipl",
+            "path": "data/maps/leveldes/seabed.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/leveldes/seabed.ipl",
+            "size": 23342
+        },
+        {
+            "name": "VegasN.ide",
+            "path": "data/maps/vegas/VegasN.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/vegas/VegasN.ide",
+            "size": 23715
+        },
+        {
+            "name": "VegasS.ide",
+            "path": "data/maps/vegas/VegasS.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/vegas/VegasS.ide",
+            "size": 18656
+        },
+        {
+            "name": "VegasW.ide",
+            "path": "data/maps/vegas/VegasW.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/vegas/VegasW.ide",
+            "size": 25456
+        },
+        {
+            "name": "vegasE.ide",
+            "path": "data/maps/vegas/vegasE.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/vegas/vegasE.ide",
+            "size": 35542
+        },
+        {
+            "name": "vegasE.ipl",
+            "path": "data/maps/vegas/vegasE.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/vegas/vegasE.ipl",
+            "size": 61084
+        },
+        {
+            "name": "vegasN.ipl",
+            "path": "data/maps/vegas/vegasN.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/vegas/vegasN.ipl",
+            "size": 36651
+        },
+        {
+            "name": "vegasS.ipl",
+            "path": "data/maps/vegas/vegasS.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/vegas/vegasS.ipl",
+            "size": 30343
+        },
+        {
+            "name": "vegasW.ipl",
+            "path": "data/maps/vegas/vegasW.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/vegas/vegasW.ipl",
+            "size": 49867
+        },
+        {
+            "name": "vegaxref.ide",
+            "path": "data/maps/vegas/vegaxref.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/vegas/vegaxref.ide",
+            "size": 5751
+        },
+        {
+            "name": "vegaxref.ipl",
+            "path": "data/maps/vegas/vegaxref.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/vegas/vegaxref.ipl",
+            "size": 3661
+        },
+        {
+            "name": "veh_mods.ide",
+            "path": "data/maps/veh_mods/veh_mods.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/veh_mods/veh_mods.ide",
+            "size": 7323
+        },
+        {
+            "name": "Audiozon.ipl",
+            "path": "data/maps/Audiozon.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/Audiozon.ipl",
+            "size": 10802
+        },
+        {
+            "name": "cull.ipl",
+            "path": "data/maps/cull.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/cull.ipl",
+            "size": 104318
+        },
+        {
+            "name": "occlu.ipl",
+            "path": "data/maps/occlu.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/occlu.ipl",
+            "size": 1012
+        },
+        {
+            "name": "occluLA.ipl",
+            "path": "data/maps/occluLA.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/occluLA.ipl",
+            "size": 35956
+        },
+        {
+            "name": "occluint.ipl",
+            "path": "data/maps/occluint.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/occluint.ipl",
+            "size": 2338
+        },
+        {
+            "name": "occlusf.ipl",
+            "path": "data/maps/occlusf.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/occlusf.ipl",
+            "size": 16114
+        },
+        {
+            "name": "occluveg.ipl",
+            "path": "data/maps/occluveg.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/occluveg.ipl",
+            "size": 17944
+        },
+        {
+            "name": "paths.ipl",
+            "path": "data/maps/paths.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/paths.ipl",
+            "size": 2658607
+        },
+        {
+            "name": "paths2.ipl",
+            "path": "data/maps/paths2.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/paths2.ipl",
+            "size": 2292241
+        },
+        {
+            "name": "paths3.ipl",
+            "path": "data/maps/paths3.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/paths3.ipl",
+            "size": 2428066
+        },
+        {
+            "name": "paths4.ipl",
+            "path": "data/maps/paths4.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/paths4.ipl",
+            "size": 253014
+        },
+        {
+            "name": "paths5.ipl",
+            "path": "data/maps/paths5.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/paths5.ipl",
+            "size": 457678
+        },
+        {
+            "name": "tunnels.ipl",
+            "path": "data/maps/tunnels.ipl",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/maps/tunnels.ipl",
+            "size": 3230
+        },
+        {
+            "name": "ROADBLOX.DAT",
+            "path": "data/paths/ROADBLOX.DAT",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/paths/ROADBLOX.DAT",
+            "size": 1304
+        },
+        {
+            "name": "carrec.img",
+            "path": "data/paths/carrec.img",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/paths/carrec.img",
+            "size": 2357248
+        },
+        {
+            "name": "gtasa_tracks_config.dat",
+            "path": "data/paths/gtasa_tracks_config.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/paths/gtasa_tracks_config.dat",
+            "size": 132
+        },
+        {
+            "name": "tracks.dat",
+            "path": "data/paths/tracks.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/paths/tracks.dat",
+            "size": 25474
+        },
+        {
+            "name": "tracks2.dat",
+            "path": "data/paths/tracks2.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/paths/tracks2.dat",
+            "size": 1892
+        },
+        {
+            "name": "tracks3.dat",
+            "path": "data/paths/tracks3.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/paths/tracks3.dat",
+            "size": 8328
+        },
+        {
+            "name": "tracks4.dat",
+            "path": "data/paths/tracks4.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/paths/tracks4.dat",
+            "size": 18347
+        },
+        {
+            "name": "scriptv1.img",
+            "path": "data/script/scriptv1.img",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/script/scriptv1.img",
+            "size": 561152
+        },
+        {
+            "name": "mainV1.scm",
+            "path": "data/script/mainV1.scm",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/script/mainV1.scm",
+            "size": 3169778
+        },
+        {
+            "name": "360Default1280x720.cfg",
+            "path": "data/360Default1280x720.cfg",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/360Default1280x720.cfg",
+            "size": 10702
+        },
+        {
+            "name": "360Default960x720.cfg",
+            "path": "data/360Default960x720.cfg",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/360Default960x720.cfg",
+            "size": 10689
+        },
+        {
+            "name": "ShopUVs.dat",
+            "path": "data/ShopUVs.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/ShopUVs.dat",
+            "size": 30509
+        },
+        {
+            "name": "TouchDefaultPhone3x2.cfg",
+            "path": "data/TouchDefaultPhone3x2.cfg",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/TouchDefaultPhone3x2.cfg",
+            "size": 10765
+        },
+        {
+            "name": "TouchDefaultPhoneWidescreen.cfg",
+            "path": "data/TouchDefaultPhoneWidescreen.cfg",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/TouchDefaultPhoneWidescreen.cfg",
+            "size": 10780
+        },
+        {
+            "name": "TouchDefaultTablet4x3.cfg",
+            "path": "data/TouchDefaultTablet4x3.cfg",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/TouchDefaultTablet4x3.cfg",
+            "size": 10782
+        },
+        {
+            "name": "TouchDefaultTabletWidescreen.cfg",
+            "path": "data/TouchDefaultTabletWidescreen.cfg",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/TouchDefaultTabletWidescreen.cfg",
+            "size": 10778
+        },
+        {
+            "name": "ar_stats.dat",
+            "path": "data/ar_stats.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/ar_stats.dat",
+            "size": 3593
+        },
+        {
+            "name": "animgrp.dat",
+            "path": "data/animgrp.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/animgrp.dat",
+            "size": 3096
+        },
+        {
+            "name": "carcols.dat",
+            "path": "data/carcols.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/carcols.dat",
+            "size": 15361
+        },
+        {
+            "name": "cargrp.dat",
+            "path": "data/cargrp.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/cargrp.dat",
+            "size": 3909
+        },
+        {
+            "name": "carmods.dat",
+            "path": "data/carmods.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/carmods.dat",
+            "size": 8763
+        },
+        {
+            "name": "cheatStrings.dat",
+            "path": "data/cheatStrings.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/cheatStrings.dat",
+            "size": 4322
+        },
+        {
+            "name": "clothes.dat",
+            "path": "data/clothes.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/clothes.dat",
+            "size": 5317
+        },
+        {
+            "name": "colorcycle.dat",
+            "path": "data/colorcycle.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/colorcycle.dat",
+            "size": 13612
+        },
+        {
+            "name": "default.dat",
+            "path": "data/default.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/default.dat",
+            "size": 577
+        },
+        {
+            "name": "default.ide",
+            "path": "data/default.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/default.ide",
+            "size": 4679
+        },
+        {
+            "name": "fonts.dat",
+            "path": "data/fonts.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/fonts.dat",
+            "size": 3576
+        },
+        {
+            "name": "furnitur.dat",
+            "path": "data/furnitur.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/furnitur.dat",
+            "size": 16480
+        },
+        {
+            "name": "gridref.dat",
+            "path": "data/gridref.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/gridref.dat",
+            "size": 1498
+        },
+        {
+            "name": "gtasa_melee_config.dat",
+            "path": "data/gtasa_melee_config.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/gtasa_melee_config.dat",
+            "size": 1157
+        },
+        {
+            "name": "gta.dat",
+            "path": "data/gta.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/gta.dat",
+            "size": 3776
+        },
+        {
+            "name": "gtasa_radarBlipSpriteFilenames.dat",
+            "path": "data/gtasa_radarBlipSpriteFilenames.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/gtasa_radarBlipSpriteFilenames.dat",
+            "size": 2280
+        },
+        {
+            "name": "gtasa_trainTypeCarriages.dat",
+            "path": "data/gtasa_trainTypeCarriages.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/gtasa_trainTypeCarriages.dat",
+            "size": 667
+        },
+        {
+            "name": "gtasa_vehicleAudioSettings.cfg",
+            "path": "data/gtasa_vehicleAudioSettings.cfg",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/gtasa_vehicleAudioSettings.cfg",
+            "size": 46721
+        },
+        {
+            "name": "gtasa_weapon_config.dat",
+            "path": "data/gtasa_weapon_config.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/gtasa_weapon_config.dat",
+            "size": 10220
+        },
+        {
+            "name": "handling.cfg",
+            "path": "data/handling.cfg",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/handling.cfg",
+            "size": 64532
+        },
+        {
+            "name": "info.zon",
+            "path": "data/info.zon",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/info.zon",
+            "size": 28139
+        },
+        {
+            "name": "map.zon",
+            "path": "data/map.zon",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/map.zon",
+            "size": 436
+        },
+        {
+            "name": "model_special_features.dat",
+            "path": "data/model_special_features.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/model_special_features.dat",
+            "size": 503
+        },
+        {
+            "name": "melee.dat",
+            "path": "data/melee.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/melee.dat",
+            "size": 6306
+        },
+        {
+            "name": "object.dat",
+            "path": "data/object.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/object.dat",
+            "size": 126118
+        },
+        {
+            "name": "ped.dat",
+            "path": "data/ped.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/ped.dat",
+            "size": 1276
+        },
+        {
+            "name": "pedgrp.dat",
+            "path": "data/pedgrp.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/pedgrp.dat",
+            "size": 5792
+        },
+        {
+            "name": "peds.ide",
+            "path": "data/peds.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/peds.ide",
+            "size": 33401
+        },
+        {
+            "name": "pedstats.dat",
+            "path": "data/pedstats.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/pedstats.dat",
+            "size": 3604
+        },
+        {
+            "name": "plants.dat",
+            "path": "data/plants.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/plants.dat",
+            "size": 9887
+        },
+        {
+            "name": "popcycle.dat",
+            "path": "data/popcycle.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/popcycle.dat",
+            "size": 127108
+        },
+        {
+            "name": "procobj.dat",
+            "path": "data/procobj.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/procobj.dat",
+            "size": 10019
+        },
+        {
+            "name": "shopping.dat",
+            "path": "data/shopping.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/shopping.dat",
+            "size": 46875
+        },
+        {
+            "name": "statdisp.dat",
+            "path": "data/statdisp.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/statdisp.dat",
+            "size": 7292
+        },
+        {
+            "name": "surface.dat",
+            "path": "data/surface.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/surface.dat",
+            "size": 576
+        },
+        {
+            "name": "surfaud.dat",
+            "path": "data/surfaud.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/surfaud.dat",
+            "size": 6530
+        },
+        {
+            "name": "surfinfo.dat",
+            "path": "data/surfinfo.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/surfinfo.dat",
+            "size": 28106
+        },
+        {
+            "name": "timecyc.aaa",
+            "path": "data/timecyc.aaa",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/timecyc.aaa",
+            "size": 38453
+        },
+        {
+            "name": "timecyc.bak",
+            "path": "data/timecyc.bak",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/timecyc.bak",
+            "size": 40347
+        },
+        {
+            "name": "timecyc.dat",
+            "path": "data/timecyc.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/timecyc.dat",
+            "size": 40037
+        },
+        {
+            "name": "timecyc.two",
+            "path": "data/timecyc.two",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/timecyc.two",
+            "size": 40347
+        },
+        {
+            "name": "timecyc1.aaa",
+            "path": "data/timecyc1.aaa",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/timecyc1.aaa",
+            "size": 38826
+        },
+        {
+            "name": "timecyc1.dat",
+            "path": "data/timecyc1.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/timecyc1.dat",
+            "size": 38826
+        },
+        {
+            "name": "timecycp.dat",
+            "path": "data/timecycp.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/timecycp.dat",
+            "size": 40520
+        },
+        {
+            "name": "timecycp1.dat",
+            "path": "data/timecycp1.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/timecycp1.dat",
+            "size": 40520
+        },
+        {
+            "name": "txdcut.ide",
+            "path": "data/txdcut.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/txdcut.ide",
+            "size": 478
+        },
+        {
+            "name": "vehicles.ide",
+            "path": "data/vehicles.ide",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/data/vehicles.ide",
+            "size": 21093
+        },
+        {
+            "name": "water.dat",
+            "path": "data/water.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/water.dat",
+            "size": 70099
+        },
+        {
+            "name": "water1.dat",
+            "path": "data/water1.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/water1.dat",
+            "size": 60063
+        },
+        {
+            "name": "weapon.dat",
+            "path": "data/weapon.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/data/weapon.dat",
+            "size": 11602
+        },
+        {
+            "name": "arial.ttf",
+            "path": "fonts/arial.ttf",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/fonts/arial.ttf",
+            "size": 367112
+        },
+        {
+            "name": "arial_bold.ttf",
+            "path": "fonts/arial_bold.ttf",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/fonts/arial_bold.ttf",
+            "size": 352224
+        },
+        {
+            "name": "georgia.ttf",
+            "path": "fonts/georgia.ttf",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/fonts/georgia.ttf",
+            "size": 219712
+        },
+        {
+            "name": "gtaweap3.ttf",
+            "path": "fonts/gtaweap3.ttf",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/fonts/gtaweap3.ttf",
+            "size": 104004
+        },
+        {
+            "name": "impact.ttf",
+            "path": "fonts/impact.ttf",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/fonts/impact.ttf",
+            "size": 206784
+        },
+        {
+            "name": "palatino_linotype.ttf",
+            "path": "fonts/palatino_linotype.ttf",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/fonts/palatino_linotype.ttf",
+            "size": 489884
+        },
+        {
+            "name": "quartz_ms.ttf",
+            "path": "fonts/quartz_ms.ttf",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/fonts/quartz_ms.ttf",
+            "size": 51032
+        },
+        {
+            "name": "segoe_print.ttf",
+            "path": "fonts/segoe_print.ttf",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/fonts/segoe_print.ttf",
+            "size": 172448
+        },
+        {
+            "name": "segoe_script.ttf",
+            "path": "fonts/segoe_script.ttf",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/fonts/segoe_script.ttf",
+            "size": 620204
+        },
+        {
+            "name": "tahoma.ttf",
+            "path": "fonts/tahoma.ttf",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/fonts/tahoma.ttf",
+            "size": 939280
+        },
+        {
+            "name": "webdings.ttf",
+            "path": "fonts/webdings.ttf",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/fonts/webdings.ttf",
+            "size": 120560
+        },
+        {
+            "name": "wingding.ttf",
+            "path": "fonts/wingding.ttf",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/fonts/wingding.ttf",
+            "size": 82180
+        },
+        {
+            "name": "peds.col",
+            "path": "models/coll/peds.col",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/models/coll/peds.col",
+            "size": 21477
+        },
+        {
+            "name": "weapons.col",
+            "path": "models/coll/weapons.col",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/models/coll/weapons.col",
+            "size": 560
+        },
+        {
+            "name": "vehicles.col",
+            "path": "models/coll/vehicles.col",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/models/coll/vehicles.col",
+            "size": 1096
+        },
+        {
+            "name": "MINFO.BIN",
+            "path": "models/MINFO.BIN",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/models/MINFO.BIN",
+            "size": 41100
+        },
+        {
+            "name": "effects.fxp",
+            "path": "models/effects.fxp",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/models/effects.fxp",
+            "size": 616708
+        },
+        {
+            "name": "gta3.dxt.dat",
+            "path": "texdb/gta3/gta3.dxt.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/gta3/gta3.dxt.dat",
+            "size": 185725552
+        },
+        {
+            "name": "gta3.dxt.tmb",
+            "path": "texdb/gta3/gta3.dxt.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta3/gta3.dxt.tmb",
+            "size": 575452
+        },
+        {
+            "name": "gta3.dxt.toc",
+            "path": "texdb/gta3/gta3.dxt.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta3/gta3.dxt.toc",
+            "size": 49784
+        },
+        {
+            "name": "gta3.etc.dat",
+            "path": "texdb/gta3/gta3.etc.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/gta3/gta3.etc.dat",
+            "size": 185725552
+        },
+        {
+            "name": "gta3.etc.tmb",
+            "path": "texdb/gta3/gta3.etc.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta3/gta3.etc.tmb",
+            "size": 575452
+        },
+        {
+            "name": "gta3.etc.toc",
+            "path": "texdb/gta3/gta3.etc.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta3/gta3.etc.toc",
+            "size": 49784
+        },
+        {
+            "name": "gta3.pvr.dat",
+            "path": "texdb/gta3/gta3.pvr.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/gta3/gta3.pvr.dat",
+            "size": 185725552
+        },
+        {
+            "name": "gta3.pvr.tmb",
+            "path": "texdb/gta3/gta3.pvr.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta3/gta3.pvr.tmb",
+            "size": 575452
+        },
+        {
+            "name": "gta3.pvr.toc",
+            "path": "texdb/gta3/gta3.pvr.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta3/gta3.pvr.toc",
+            "size": 49784
+        },
+        {
+            "name": "gta3.txt",
+            "path": "texdb/gta3/gta3.txt",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta3/gta3.txt",
+            "size": 792665
+        },
+        {
+            "name": "gta3.unc.tmb",
+            "path": "texdb/gta3/gta3.unc.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta3/gta3.unc.tmb",
+            "size": 1457212
+        },
+        {
+            "name": "gta_int.dxt.dat",
+            "path": "texdb/gta_int/gta_int.dxt.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/gta_int/gta_int.dxt.dat",
+            "size": 21742444
+        },
+        {
+            "name": "gta_int.dxt.tmb",
+            "path": "texdb/gta_int/gta_int.dxt.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta_int/gta_int.dxt.tmb",
+            "size": 663408
+        },
+        {
+            "name": "gta_int.dxt.toc",
+            "path": "texdb/gta_int/gta_int.dxt.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta_int/gta_int.dxt.toc",
+            "size": 10132
+        },
+        {
+            "name": "gta_int.etc.dat",
+            "path": "texdb/gta_int/gta_int.etc.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/gta_int/gta_int.etc.dat",
+            "size": 21742444
+        },
+        {
+            "name": "gta_int.etc.tmb",
+            "path": "texdb/gta_int/gta_int.etc.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta_int/gta_int.etc.tmb",
+            "size": 663408
+        },
+        {
+            "name": "gta_int.etc.toc",
+            "path": "texdb/gta_int/gta_int.etc.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta_int/gta_int.etc.toc",
+            "size": 10132
+        },
+        {
+            "name": "gta_int.pvr.dat",
+            "path": "texdb/gta_int/gta_int.pvr.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/gta_int/gta_int.pvr.dat",
+            "size": 21742444
+        },
+        {
+            "name": "gta_int.pvr.tmb",
+            "path": "texdb/gta_int/gta_int.pvr.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta_int/gta_int.pvr.tmb",
+            "size": 663408
+        },
+        {
+            "name": "gta_int.pvr.toc",
+            "path": "texdb/gta_int/gta_int.pvr.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta_int/gta_int.pvr.toc",
+            "size": 10132
+        },
+        {
+            "name": "gta_int.txt",
+            "path": "texdb/gta_int/gta_int.txt",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta_int/gta_int.txt",
+            "size": 174099
+        },
+        {
+            "name": "gta_int.unc.tmb",
+            "path": "texdb/gta_int/gta_int.unc.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/gta_int/gta_int.unc.tmb",
+            "size": 663408
+        },
+        {
+            "name": "menu.dxt.dat",
+            "path": "texdb/menu/menu.dxt.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/menu/menu.dxt.dat",
+            "size": 5187414
+        },
+        {
+            "name": "menu.dxt.tmb",
+            "path": "texdb/menu/menu.dxt.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/menu/menu.dxt.tmb",
+            "size": 992
+        },
+        {
+            "name": "menu.dxt.toc",
+            "path": "texdb/menu/menu.dxt.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/menu/menu.dxt.toc",
+            "size": 176
+        },
+        {
+            "name": "menu.etc.dat",
+            "path": "texdb/menu/menu.etc.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/menu/menu.etc.dat",
+            "size": 6472908
+        },
+        {
+            "name": "menu.etc.tmb",
+            "path": "texdb/menu/menu.etc.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/menu/menu.etc.tmb",
+            "size": 992
+        },
+        {
+            "name": "menu.etc.toc",
+            "path": "texdb/menu/menu.etc.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/menu/menu.etc.toc",
+            "size": 176
+        },
+        {
+            "name": "menu.pvr.dat",
+            "path": "texdb/menu/menu.pvr.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/menu/menu.pvr.dat",
+            "size": 6472908
+        },
+        {
+            "name": "menu.pvr.tmb",
+            "path": "texdb/menu/menu.pvr.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/menu/menu.pvr.tmb",
+            "size": 992
+        },
+        {
+            "name": "menu.pvr.toc",
+            "path": "texdb/menu/menu.pvr.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/menu/menu.pvr.toc",
+            "size": 176
+        },
+        {
+            "name": "menu.txt",
+            "path": "texdb/menu/menu.txt",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/menu/menu.txt",
+            "size": 3147
+        },
+        {
+            "name": "menu.unc.tmb",
+            "path": "texdb/menu/menu.unc.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/menu/menu.unc.tmb",
+            "size": 992
+        },
+        {
+            "name": "mobile.dxt.dat",
+            "path": "texdb/mobile/mobile.dxt.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/mobile/mobile.dxt.dat",
+            "size": 8712314
+        },
+        {
+            "name": "mobile.dxt.tmb",
+            "path": "texdb/mobile/mobile.dxt.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/mobile/mobile.dxt.tmb",
+            "size": 3940
+        },
+        {
+            "name": "mobile.dxt.toc",
+            "path": "texdb/mobile/mobile.dxt.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/mobile/mobile.dxt.toc",
+            "size": 792
+        },
+        {
+            "name": "mobile.etc.dat",
+            "path": "texdb/mobile/mobile.etc.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/mobile/mobile.etc.dat",
+            "size": 8712314
+        },
+        {
+            "name": "mobile.etc.tmb",
+            "path": "texdb/mobile/mobile.etc.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/mobile/mobile.etc.tmb",
+            "size": 3940
+        },
+        {
+            "name": "mobile.etc.toc",
+            "path": "texdb/mobile/mobile.etc.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/mobile/mobile.etc.toc",
+            "size": 792
+        },
+        {
+            "name": "mobile.pvr.dat",
+            "path": "texdb/mobile/mobile.pvr.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/mobile/mobile.pvr.dat",
+            "size": 8712314
+        },
+        {
+            "name": "mobile.pvr.tmb",
+            "path": "texdb/mobile/mobile.pvr.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/mobile/mobile.pvr.tmb",
+            "size": 3940
+        },
+        {
+            "name": "mobile.pvr.toc",
+            "path": "texdb/mobile/mobile.pvr.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/mobile/mobile.pvr.toc",
+            "size": 792
+        },
+        {
+            "name": "mobile.txt",
+            "path": "texdb/mobile/mobile.txt",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/mobile/mobile.txt",
+            "size": 14502
+        },
+        {
+            "name": "mobile.unc.tmb",
+            "path": "texdb/mobile/mobile.unc.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/mobile/mobile.unc.tmb",
+            "size": 3940
+        },
+        {
+            "name": "player.pvr.dat",
+            "path": "texdb/player/player.pvr.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/player/player.pvr.dat",
+            "size": 6569414
+        },
+        {
+            "name": "player.pvr.tmb",
+            "path": "texdb/player/player.pvr.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/player/player.pvr.tmb",
+            "size": 6940
+        },
+        {
+            "name": "player.pvr.toc",
+            "path": "texdb/player/player.pvr.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/player/player.pvr.toc",
+            "size": 1580
+        },
+        {
+            "name": "player.txt",
+            "path": "texdb/player/player.txt",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/player/player.txt",
+            "size": 27810
+        },
+        {
+            "name": "playerhi.pvr.dat",
+            "path": "texdb/playerhi/playerhi.pvr.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/playerhi/playerhi.pvr.dat",
+            "size": 27658902
+        },
+        {
+            "name": "playerhi.pvr.tmb",
+            "path": "texdb/playerhi/playerhi.pvr.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/playerhi/playerhi.pvr.tmb",
+            "size": 6940
+        },
+        {
+            "name": "playerhi.pvr.toc",
+            "path": "texdb/playerhi/playerhi.pvr.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/playerhi/playerhi.pvr.toc",
+            "size": 1580
+        },
+        {
+            "name": "playerhi.txt",
+            "path": "texdb/playerhi/playerhi.txt",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/playerhi/playerhi.txt",
+            "size": 28087
+        },
+        {
+            "name": "samp.dxt.dat",
+            "path": "texdb/samp/samp.dxt.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/samp/samp.dxt.dat",
+            "size": 22144848
+        },
+        {
+            "name": "samp.dxt.tmb",
+            "path": "texdb/samp/samp.dxt.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/samp/samp.dxt.tmb",
+            "size": 21376
+        },
+        {
+            "name": "samp.dxt.toc",
+            "path": "texdb/samp/samp.dxt.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/samp/samp.dxt.toc",
+            "size": 6176
+        },
+        {
+            "name": "samp.etc.dat",
+            "path": "texdb/samp/samp.etc.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/samp/samp.etc.dat",
+            "size": 33279656
+        },
+        {
+            "name": "samp.etc.tmb",
+            "path": "texdb/samp/samp.etc.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/samp/samp.etc.tmb",
+            "size": 21376
+        },
+        {
+            "name": "samp.etc.toc",
+            "path": "texdb/samp/samp.etc.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/samp/samp.etc.toc",
+            "size": 6176
+        },
+        {
+            "name": "samp.pvr.dat",
+            "path": "texdb/samp/samp.pvr.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/samp/samp.pvr.dat",
+            "size": 13894248
+        },
+        {
+            "name": "samp.pvr.tmb",
+            "path": "texdb/samp/samp.pvr.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/samp/samp.pvr.tmb",
+            "size": 21376
+        },
+        {
+            "name": "samp.pvr.toc",
+            "path": "texdb/samp/samp.pvr.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/samp/samp.pvr.toc",
+            "size": 6176
+        },
+        {
+            "name": "samp.txt",
+            "path": "texdb/samp/samp.txt",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/samp/samp.txt",
+            "size": 89582
+        },
+        {
+            "name": "samp.unc.dat",
+            "path": "texdb/samp/samp.unc.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/samp/samp.unc.dat",
+            "size": 33150952
+        },
+        {
+            "name": "samp.unc.tmb",
+            "path": "texdb/samp/samp.unc.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/samp/samp.unc.tmb",
+            "size": 22528
+        },
+        {
+            "name": "samp.unc.toc",
+            "path": "texdb/samp/samp.unc.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/samp/samp.unc.toc",
+            "size": 6156
+        },
+        {
+            "name": "txd.360.dat",
+            "path": "texdb/txd/txd.360.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/txd/txd.360.dat",
+            "size": 7625578
+        },
+        {
+            "name": "txd.360.tmb",
+            "path": "texdb/txd/txd.360.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/txd/txd.360.tmb",
+            "size": 31028
+        },
+        {
+            "name": "txd.360.toc",
+            "path": "texdb/txd/txd.360.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/txd/txd.360.toc",
+            "size": 2376
+        },
+        {
+            "name": "txd.dxt.dat",
+            "path": "texdb/txd/txd.dxt.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/txd/txd.dxt.dat",
+            "size": 9422056
+        },
+        {
+            "name": "txd.dxt.tmb",
+            "path": "texdb/txd/txd.dxt.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/txd/txd.dxt.tmb",
+            "size": 49460
+        },
+        {
+            "name": "txd.dxt.toc",
+            "path": "texdb/txd/txd.dxt.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/txd/txd.dxt.toc",
+            "size": 2376
+        },
+        {
+            "name": "txd.etc.dat",
+            "path": "texdb/txd/txd.etc.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/txd/txd.etc.dat",
+            "size": 9422056
+        },
+        {
+            "name": "txd.etc.tmb",
+            "path": "texdb/txd/txd.etc.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/txd/txd.etc.tmb",
+            "size": 49460
+        },
+        {
+            "name": "txd.etc.toc",
+            "path": "texdb/txd/txd.etc.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/txd/txd.etc.toc",
+            "size": 2376
+        },
+        {
+            "name": "txd.pvr.dat",
+            "path": "texdb/txd/txd.pvr.dat",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/txd/txd.pvr.dat",
+            "size": 9422056
+        },
+        {
+            "name": "txd.pvr.tmb",
+            "path": "texdb/txd/txd.pvr.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/txd/txd.pvr.tmb",
+            "size": 49460
+        },
+        {
+            "name": "txd.pvr.toc",
+            "path": "texdb/txd/txd.pvr.toc",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/txd/txd.pvr.toc",
+            "size": 2376
+        },
+        {
+            "name": "txd.txt",
+            "path": "texdb/txd/txd.txt",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/txd/txd.txt",
+            "size": 43193
+        },
+        {
+            "name": "txd.unc.tmb",
+            "path": "texdb/txd/txd.unc.tmb",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/texdb/txd/txd.unc.tmb",
+            "size": 59636
+        },
+        {
+            "name": "SAMPCOL.img",
+            "path": "texdb/SAMPCOL.img",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/SAMPCOL.img",
+            "size": 4253696
+        },
+        {
+            "name": "gta3.img",
+            "path": "texdb/gta3.img",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/gta3.img",
+            "size": 283521024
+        },
+        {
+            "name": "gta_int.img",
+            "path": "texdb/gta_int.img",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/gta_int.img",
+            "size": 44836864
+        },
+        {
+            "name": "player.img",
+            "path": "texdb/player.img",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/player.img",
+            "size": 16412672
+        },
+        {
+            "name": "samp.img",
+            "path": "texdb/samp.img",
+            "url": "https://media.githubusercontent.com/media/v7-desenvolvedor/lbl-cache/main/texdb/samp.img",
+            "size": 36902912
+        },
+        {
+            "name": ".gitattributes",
+            "path": ".gitattributes",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/.gitattributes",
+            "size": 168
+        },
+        {
+            "name": "CINFO.BIN",
+            "path": "CINFO.BIN",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/CINFO.BIN",
+            "size": 634084
+        },
+        {
+            "name": "stream.ini",
+            "path": "stream.ini",
+            "url": "https://raw.githubusercontent.com/v7-desenvolvedor/lbl-cache/main/stream.ini",
+            "size": 197
+        }
+    ]
+}
