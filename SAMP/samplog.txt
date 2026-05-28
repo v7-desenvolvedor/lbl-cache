@@ -1,0 +1,47 @@
+Initializing SAMP..
+Storage: /storage/emulated/0/Android/data/ru.unisamp_mobile.game/files/
+Loading settings..
+Loading "samp" cd..
+Loading handling.cfg...
+CGame: InitInMenu
+Installing patches..
+Loading splash texture..
+Initializing GUI..
+GUI | Display size: 1560.000000, 720.000000
+GUI | Scale factor: 0.812500, 0.666667 Font size: 20.000000
+GUI | Loading font: arial_bold.ttf
+GUI | ImFont pointer = 0xBFDD3170
+GUI | Loading font: gtaweap3.ttf
+GUI | ImFont pointer = 0xBFDD32C0
+Tab initialized.
+Initalizing KeyBoard..
+Size: 1560.000000, 396.000000. Pos: 0.000000, 324.000000
+font size: 46.666668. Key's height: 79.199997
+Initializng Chat Window..
+Chat pos: 260.000000, 16.666668, size: 853.125000, 216.666672
+Initializing Spawn Screen..
+Spawn Screen pos: 536.250000, 633.333374, size: 487.500000, 66.666672
+Loading afk_icon..
+Deathmessage initialized.
+ServerList initialized.
+GUI | CreateDeviceObjects.
+GUI | Font atlas width: 512, height: 128, depth: 32
+Loading vehicles.ide...
+GUI | Vertex buffer reallocated. Size: 5068
+Loading peds.ide...
+Loading gta.dat...
+Loading script.img...
+Loading script.img...
+Loading weapon.dat...
+Loading mainV1.scm...
+Loading mainV1.scm...
+Loading mainV1.scm...
+CGame: InitInGame
+Installing patches (ingame)..
+Registering RPC's..
+> netrpc | All RPC successfully Registered
+Registering ScriptRPC's..
+> scriptrpc | All RPC successfully Registered
+Incoming packet: ID_AUTH_KEY
+RPC: InitGame
+RPC: RequestClass
