@@ -2,6 +2,6 @@
   "client_config": {
     "version_code": 1,
     "url_launcher": "http://45.157.16.75/apigua/data/laucher.apk",
-    "url_cache_files": "http://45.157.16.75/api/generate_files.php"
+    "url_cache_files": "https://desenvolvimento.reduto.online/beta/files.json"
   }
 }
